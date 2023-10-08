@@ -152,9 +152,6 @@ int main() {
 
     int n; cin >> n;
 
-    
-
-
     create(n);
 
     update(3, 111111);
